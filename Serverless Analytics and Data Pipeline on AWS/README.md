@@ -9,4 +9,4 @@ A full managed serverless data pipeline - you can put all these systems together
 A real-time analytics - the easiest way you can find to analyze streaming data, gain actionable insights, and respond to your business and customer needs in real time by combing the powers of AWS Glue Streaming, Amazon Kinesis and AWS Lambda.
 
 ### Architecture
-![Alt text](/serverless.jpeg?raw=true "Architecture")
+![Alt text](/serverless.png?raw=true "Architecture")
