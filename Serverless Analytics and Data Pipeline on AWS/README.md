@@ -10,3 +10,7 @@ A real-time analytics - the easiest way you can find to analyze streaming data, 
 
 ### Architecture
 ![Alt text](/serverless.png?raw=true "Architecture")
+
+## Diagram
+![Architecture](/serverless.png)
+Format: ![Alt Text](url)
