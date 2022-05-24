@@ -1,2 +1,2 @@
 # AWS-POC
-For AWS PoC Purpurses
+For AWS PoC Purposes
